@@ -6,7 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=black&logo=X&logoColor=white&link=https://x.com/I_pauloo)](https://x.com/I_pauloo)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-db0075?logo=instagram&logoColor=white&link=https://instagram.com/pauloo.rns/)](https://www.instagram.com/pauloo.rns)
 
-- 🎓 I’m currently graduating in Data Science at Estácio
+- 🎓 I’m currently graduating in Data Science at Estácio.
 
 ### 🖥 Skills
 
