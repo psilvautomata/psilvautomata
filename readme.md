@@ -12,7 +12,8 @@
 
 - VBA
 - Power Automate (SAP, Excel, GUI, etc.)
-- Python  
+- Python
+- XML/Xpath
 
 
 <div>
