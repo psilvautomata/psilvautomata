@@ -1,4 +1,4 @@
-# Paulo Silva
+# $Paulo$ $Silva$
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpsilvautomata%2Fhit-counter&count_bg=%2337A3B8&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Github](https://img.shields.io/github/followers/psilvautomata?label=Follow&style=social)](https://github.com/psilvautomata)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-roberto-nascimento-silva/)
@@ -8,7 +8,7 @@
 
 - 🎓 I’m currently graduating in Data Science at Estácio.
 
-### 🖥 Skills
+## 🖥 $Skills$
 
 - VBA
 - Power Automate (SAP, Excel, GUI, etc.)
